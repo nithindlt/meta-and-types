@@ -9,4 +9,4 @@ if __name__ == '__main__':
         price = PositiveFloat()
 
 
-    print(Stock("ACEM", 1, 0.1))
+    print(Stock("DLT", 1, 0.1))
